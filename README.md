@@ -1,2 +1,13 @@
-# Web-Scraper
-A python webscraper
+# Craigslist-Web-Scraper
+## About
+This is a web-scraping utility that will utilize the scrapy library to scrape craigslist for desired listings, update them on the page live, and utilize an 
+
+## Libraries
+This application utilizes the following libraries & frameworks
+
+<ul>
+  <li>Python 3</li>
+  <li>Flask</li>
+  <li>Srapy</li>
+  <li>Salmon</li>
+</ul>
